@@ -1,5 +1,5 @@
 ### player/game info for tic tac toe.
-import tic_tac_toe as ttt
+import ADVTTT as ttt
 
 class gameInfo:
     def __init__(self):
